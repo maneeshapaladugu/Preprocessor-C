@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+
 void rem_cmnts(char *input_file)
 {
   FILE *fsrc,*fdest,*ftemp;
